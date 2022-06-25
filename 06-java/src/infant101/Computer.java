@@ -1,3 +1,5 @@
+package infant101;
+
 public class Computer {
 
     // Below is a default constructor

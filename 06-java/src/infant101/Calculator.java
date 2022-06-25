@@ -1,3 +1,5 @@
+package infant101;
+
 public class Calculator {
 
     public Calculator(){
