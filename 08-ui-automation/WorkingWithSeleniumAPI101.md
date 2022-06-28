@@ -33,3 +33,23 @@ Note: Before you start -
     * sendKeys()
     * clear()
     * submit
+7. Let's do more interaction with browser using this website [Reference](http://the-internet.herokuapp.com/)
+    * Write a method to check checkboxes.
+    * Write a method to select option from dropdown menu.
+    * Write a method to do drag and drop operation.
+    * Write methods to download and upload files. 
+    * Write a method to delas with context menu.
+    * Write a method to selects option from floating menu. 
+    * Write a method to handle multiple windows. 
+    * Write a method to handle key press functionality. 
+    * Write a method to handle forgot password feature.
+    * Write a method to handle horizontal slider. 
+    * Write a method to handle add/remove element. 
+    * Write a method to handle basic auth. 
+    * Write a method to handle form authentication. 
+    * Write a method to handle infinte scoll. 
+    * Write a method to handle hovers. 
+    * Write a method to handle frames. 
+    * Write a method to handle horizontal slider. 
+    * Write a method to handle inputs. 
+    * Wtite a method to handle nested frames. 
